@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- White square background -->
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="white" stroke="black" stroke-width="3"></rect>
+
+  <!-- Stylized D -->
+  <path d="M20 14
+       H34
+       C45 14 52 22 52 32
+       C52 42 45 50 34 50
+       H20
+       V14
+       Z
+       M27 21
+       V43
+       H33
+       C40 43 44 39 44 32
+       C44 25 40 21 33 21
+       H27
+       Z" fill="black" fill-rule="evenodd"></path>
+
+  <!-- Form/List detail -->
+  <circle cx="29" cy="30" r="2" fill="white"></circle>
+  <rect x="33" y="28.5" width="7" height="3" rx="1.5" fill="white"></rect>
+
+  <circle cx="29" cy="37" r="2" fill="white"></circle>
+  <rect x="33" y="35.5" width="7" height="3" rx="1.5" fill="white"></rect>
+</svg>
